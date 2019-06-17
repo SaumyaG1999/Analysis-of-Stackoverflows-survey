@@ -23,9 +23,9 @@ For this project, I was interested in using Stack Overflow's developer data to b
 ## Results 
 The main findings of the code can be found at the post https://medium.com/@saumyagarg2299/significance-of-education-in-a-successful-developers-career-cc9ba69d59c?source=friends_link&sk=a4475b66d3927bd8389a7ea17aa52694.
   Brief findings of the questions :
-  - Formal education was important upto some extent for a successful developer's career
+  - Formal education was important upto some extent for a successful developer's career .
   - Self-study and taking an online course were the best ways to become a developer.
-  - 
+  - Official Documentation and Stack Overflow Q&A were the self-study resources developers suggested . 
 
 ## Acknowledgements
 Must give credit to Stack Overflow for the data. Grateful to the whole udacity team and the mentors of "Data Scientist Nanodegree program" .Feel free to use the code as you would like!
