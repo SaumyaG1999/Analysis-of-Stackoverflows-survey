@@ -18,7 +18,7 @@ For this project, I was interested in using Stack Overflow's developer data to b
   4. How official documentation helped to learn mew skills?
   
 ## File Description
-   There is a notebook available which will help you to guide through the above questions 
+   There is a jupyteer notebook available which will help you to guide through the above questions 
    
 ## Results 
 The main findings of the code can be found at the post https://medium.com/@saumyagarg2299/significance-of-education-in-a-successful-developers-career-cc9ba69d59c?source=friends_link&sk=a4475b66d3927bd8389a7ea17aa52694.
