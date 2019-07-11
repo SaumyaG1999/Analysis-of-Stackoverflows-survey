@@ -1,10 +1,10 @@
 ## Table of contents
 
   1. [Installation](#Installation)
-  2. **Project Motivation**
-  3. **File Description**
-  4. **Results**
-  5. **Acknowledgements**
+  2. [Project Motivation](#Project Motivation)
+  3. [File Description](#File Description)
+  4. [Results](#Results)
+  5. [Acknowledgements](#Acknowledgements)
   
 ## Installation
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.
