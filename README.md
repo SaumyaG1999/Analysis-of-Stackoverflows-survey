@@ -1,8 +1,8 @@
 ## Table of contents
 
   1. [Installation](#Installation)
-  2. [Project Motivation](#Project Motivation)
-  3. [File Description](#File Description)
+  2. [Project Motivation](#Project)
+  3. [File Description](#File)
   4. [Results](#Results)
   5. [Acknowledgements](#Acknowledgements)
   
