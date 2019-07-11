@@ -21,8 +21,7 @@ For this project, I was interested in using Stack Overflow's developer data to b
    There is a jupyter notebook available which will help you to guide through the above questions 
    
 ## Results 
-The main findings of the code can be found at the post [here](https://medium.com/@saumyagarg2299/significance-of-education-in-a-successful-developers-career-cc9ba69d59c?source=friends_link&sk=a4475b66d3927bd8389a7ea17aa52694.)
-
+The main findings of the code can be found at the post [here](https://medium.com/@saumyagarg2299/significance-of-education-in-a-successful-developers-career-cc9ba69d59c?source=friends_link&sk=a4475b66d3927bd8389a7ea17aa52694.).
 Brief findings of the questions :
   - Formal education was important upto some extent for a successful developer's career .
   - Self-study and taking an online course were the best ways to become a developer.
