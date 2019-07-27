@@ -29,5 +29,5 @@ Brief findings of the questions :
   - Official Documentation and Stack Overflow Q&A were the self-study resources developers suggested . 
 
 ## Acknowledgements
-Must give credit to [Stack Overflow](https://stackoverflow.com/) for the data. 
-Grateful to the whole [Udacity](https://www.udacity.com/) team and the mentors of "Data Scientist Nanodegree program" .Feel free to use the code as you would like! 
+* Must give credit to [Stack Overflow](https://stackoverflow.com/) for the data. 
+* Grateful to the whole [Udacity](https://www.udacity.com/) team and the mentors of "Data Scientist Nanodegree program" .Feel free to use the code as you would like! 
